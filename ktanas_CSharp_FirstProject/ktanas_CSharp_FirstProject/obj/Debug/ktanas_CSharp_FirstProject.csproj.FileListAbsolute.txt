@@ -1,0 +1,7 @@
+C:\Users\tanask\source\repos\ktanas_CSharp_FirstProject\ktanas_CSharp_FirstProject\obj\Debug\ktanas_CSharp_FirstProject.csproj.AssemblyReference.cache
+C:\Users\tanask\source\repos\ktanas_CSharp_FirstProject\ktanas_CSharp_FirstProject\obj\Debug\ktanas_CSharp_FirstProject.csproj.CoreCompileInputs.cache
+C:\Users\tanask\source\repos\ktanas_CSharp_FirstProject\ktanas_CSharp_FirstProject\bin\Debug\ktanas_CSharp_FirstProject.exe.config
+C:\Users\tanask\source\repos\ktanas_CSharp_FirstProject\ktanas_CSharp_FirstProject\bin\Debug\ktanas_CSharp_FirstProject.exe
+C:\Users\tanask\source\repos\ktanas_CSharp_FirstProject\ktanas_CSharp_FirstProject\bin\Debug\ktanas_CSharp_FirstProject.pdb
+C:\Users\tanask\source\repos\ktanas_CSharp_FirstProject\ktanas_CSharp_FirstProject\obj\Debug\ktanas_CSharp_FirstProject.exe
+C:\Users\tanask\source\repos\ktanas_CSharp_FirstProject\ktanas_CSharp_FirstProject\obj\Debug\ktanas_CSharp_FirstProject.pdb
